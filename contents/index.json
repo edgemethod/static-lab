@@ -1,0 +1,7 @@
+{
+  "template": "template.jade",
+    "title": "Home",
+    "nav": "Home",
+  	"name": "This is just a placeholder.",
+  	"introText": "This is just another placeholder with some more detailed text in it."            
+}

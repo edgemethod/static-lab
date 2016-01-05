@@ -1,0 +1,15 @@
+{
+  "locals": {
+    "siteName": "Lab",
+    "nav": [
+      {
+        "label": "NEW THING",
+        "href": "/Sponsorship",
+        "color": "red"
+      }
+    ]
+  },
+  "plugins": [
+    "wintersmith-less"
+  ]
+}

@@ -1,0 +1,82 @@
+body {
+  font-family: "PT Sans";
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Hind";
+  letter-spacing: -0.04rem;
+}
+h1,
+h2 {
+  letter-spacing: -0.04rem;
+  text-transform: uppercase;
+}
+h1 {
+  line-height: 2.75rem;
+  font-size: 2.6rem;
+  color: #222;
+  letter-spacing: -0.1rem;
+  padding-top: 1rem;
+  font-weight: 600;
+}
+h2 {
+  margin-top: 2rem;
+  font-size: 2rem;
+  letter-spacing: -0.02rem;
+  font-weight: 700;
+}
+h5 {
+  font-weight: 600;
+  line-height: 1.45rem;
+}
+.top-bar-right li {
+  font-size: 0.8rem;
+}
+.top-bar.white {
+  background: #fff;
+}
+a,
+.top-bar a {
+  color: #000;
+}
+.orbit-container {
+  height: auto !important;
+}
+.orbit li img {
+  width: 100%;
+}
+.button {
+  line-height: 1.25rem;
+  padding: 0.5rem 0.8rem 0.25rem 0.8rem;
+  font-family: "Hind";
+  font-weight: 700;
+  border-radius: 0.14rem;
+  text-transform: uppercase;
+  opacity: 0.90;
+}
+.button:hover {
+  opacity: 1;
+}
+.button.yellow {
+  color: #fff;
+  background-color: #ffc829;
+}
+.button.red {
+  color: #fff;
+  background-color: #dd0027;
+}
+.button.green {
+  color: #fff;
+  background-color: #acb84c;
+}
+.button.orange {
+  color: #fff;
+  background-color: #f37e27;
+}
+.top-bar-right .menu .button {
+  padding-bottom: 0.5rem;
+}
